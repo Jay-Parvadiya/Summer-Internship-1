@@ -1,4 +1,4 @@
-from SGPMain import takeCommand,speak,VAName
+from Main import takeCommand,speak,VAName
 import openai
 import os
 openai.api_key = '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'
