@@ -1,12 +1,12 @@
-Summer Internship 2024
+# Summer Internship 2024
 Welcome to my GitHub repository of my 6-week Summer Internship 2024, during 4th semester summer breaks. During this internship, I worked on Python project under my external guide of company Multiminds Technology., which an e-learning provider company.
 
-#Technologies Used
+# Technologies Used
 Pytho Modle :- Flask, Selenium, Pyautogui etc.
 
-#Progress:
+# Progress:
 
-#📅 Week 1
+# 📅 Week 1
 
 May 15, 2024:
 ✅ Today, I immersed myself in the basics of the GitHub, gaining a solid understanding of GitHub. It was exciting to dive into these technologies, each playing a crucial role in modern web development. 
@@ -20,7 +20,7 @@ May 17, 2024:
 May 18, 2024:
 ✅ Today, External guid give me task to creat mini python project. I created simple calculatore using python.
 
-#📅 Week-2 
+# 📅 Week-2 
 
 May 20, 2024:
 ✅ Today, I learn Flask Module in python. And also learn application and use case of this module in real life porject.
