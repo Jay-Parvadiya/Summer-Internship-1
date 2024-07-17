@@ -26,4 +26,7 @@ May 20, 2024:
 ✅ Today, I learn Flask Module in python. And also learn application and use case of this module in real life porject.
 
 May 21, 2024:
-✅ Focus on handling forms and user input in Flask applications, implementing basic form validation techniques. Dive into database integration using SQLAlchemy, setting up a SQLite database connection, defining models, and performing CRUD operations to manage data efficiently.
+✅ Focus on handling forms and user input in Flask applications, implementing basic form validation techniques. 
+
+May 21, 2024:
+✅ Explore advanced topics such as user authentication, authorization, and session management. Implement user registration, login functionality, and secure routes based on authentication status. 
