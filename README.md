@@ -1,5 +1,11 @@
-# Summer-Internship-1
+Summer Internship 2024
+Welcome to my GitHub repository of my 6-week Summer Internship 2024, during 4th semester summer breaks. During this internship, I worked on a project titled "Real-time Job Portal" under my external guide of company NullClass Pvt. Ltd., which an e-learning provider company.
 
-Desktop-Assistant
+Technologies Used
+MERN stack: React, Node.js, Express, MongoDB
 
-A desktop assistant is a software tool crafted to aid users in managing tasks on their computers. Functioning as a virtual aide, it assists with activities like scheduling, email organization, file management, web searches, and application control via voice or text commands. Powered by artificial intelligence, these assistants grasp and respond to user inquiries, evolving their efficacy through machine learning. Their goal is to boost productivity and refine user interaction by delivering personalized and efficient support tailored to individual preferences.
+Progress:
+📅 Week 1
+
+May 15, 2024:
+✅ Today, I immersed myself in the basics of the GitHub, gaining a solid understanding of GitHub. It was exciting to dive into these technologies, each playing a crucial role in modern web development. 
