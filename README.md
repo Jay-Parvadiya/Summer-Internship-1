@@ -15,3 +15,7 @@ May 16, 2024:
 
 May 17, 2024:
 ✅ To facilitate smooth version control and collaboration with team members, I set up a Git repository and a remote GitHub repository. This step was essential for tracking changes and coordinating our efforts effectively. 
+
+May 18, 2024:
+✅ Today, External guid give me task to creat mini python project. I created simple calculatore using python.
+
