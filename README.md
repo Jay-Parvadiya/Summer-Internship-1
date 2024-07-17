@@ -5,6 +5,7 @@ Welcome to my GitHub repository of my 6-week Summer Internship 2024, during 4th 
 Pytho Modle :- Flask, Selenium, Pyautogui etc.
 
 Progress:
+
 📅 Week 1
 
 May 15, 2024:
@@ -23,3 +24,6 @@ May 18, 2024:
 
 May 20, 2024:
 ✅ Today, I learn Flask Module in python. And also learn application and use case of this module in real life porject.
+
+May 21, 2024:
+✅ Focus on handling forms and user input in Flask applications, implementing basic form validation techniques. Dive into database integration using SQLAlchemy, setting up a SQLite database connection, defining models, and performing CRUD operations to manage data efficiently.
