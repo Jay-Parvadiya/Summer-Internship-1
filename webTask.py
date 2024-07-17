@@ -1,4 +1,4 @@
-from SGPMain import takeCommand,speak,VAName
+from Main import takeCommand,speak,VAName
 import webbrowser
 import pywhatkit
 import wikipedia
