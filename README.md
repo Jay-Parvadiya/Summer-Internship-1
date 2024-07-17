@@ -39,3 +39,43 @@ May 24, 2024:
 
 May 25, 2024:
 ✅ Explore authentication and authorization mechanisms for securing your RESTful APIs. Implement token-based authentication using libraries like Flask-JWT or Django REST Framework's authentication classes. Learn about rate limiting, CORS (Cross-Origin Resource Sharing), and other advanced concepts to enhance the security and performance of your APIs.
+
+# 📅 Week-3
+
+May 27, 2024:
+✅ Install Selenium WebDriver for Python and set up your environment. Understand its role in automating browser interactions for testing and scraping tasks.ect.
+
+May 28, 2024:
+✅ Today i learn how to Write scripts to open/close browsers and interact with simple HTML elements like buttons and text fields.
+
+May 29, 2024:
+✅ Learn to locate and interact with elements using IDs, class names, CSS selectors, and XPath.
+
+May 30, 2024:
+✅ Implement mouse actions such as clicking, hovering, and dragging elements programmatically.
+
+May 31, 2024:
+✅ Simulate keyboard events like typing text, pressing keys, and using shortcuts within web forms.
+
+May 01, 2024:
+✅ Explore synchronization strategies, handling alerts, and optimizing scripts for robust automation tasks.
+
+# 📅 Week-4
+
+May 02, 2024:
+✅ Begin by exploring PyAutoGUI, a Python module that allows you to automate GUI interactions, such as mouse movements, clicks, and keyboard inputs. Learn its basic functions and capabilities for controlling the mouse and keyboard programmatically.
+
+May 03, 2024:
+✅ Dive into other useful Python modules like Pyttsx3 for text-to-speech synthesis, SpeechRecognition for speech recognition capabilities, and OpenAI for advanced natural language processing tasks. Understand how each module can be integrated into Python applications to enhance functionality.
+
+May 04, 2024:
+✅ Combine your knowledge from the previous days to create a desktop assistant mini project. Utilize PyAutoGUI for automating GUI interactions, Pyttsx3 for speech synthesis, SpeechRecognition for voice commands, and integrate with OpenAI for advanced AI capabilities. Develop functionalities such as voice-controlled commands, retrieving information from the web, and executing system tasks based on user input.
+
+May 05, 2024:
+✅ Refine your desktop assistant project by adding error handling, improving user interaction flow, and testing for robustness and reliability. Ensure all integrated modules work seamlessly together and polish the user experience with smooth voice interaction and responsive GUI automation.
+
+⭐During my internship, I gained valuable experience as a Python developer at an IT company. I contributed to projects involving web development with Flask, automation using Selenium WebDriver, and integrating various Python modules for enhanced functionality. This hands-on experience has not only strengthened my technical skills but also provided me with insights into collaborative team environments and best practices in software development.
+
+# Feel free to give your suggestions on this.
+# Contact me through :
+# Mail : (22it089@charusat.edu.in)
