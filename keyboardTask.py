@@ -1,4 +1,4 @@
-from SGPMain import takeCommand,speak,VAName
+from Main import takeCommand,speak,VAName
 from pynput.keyboard import Key,Controller
 import time
 
