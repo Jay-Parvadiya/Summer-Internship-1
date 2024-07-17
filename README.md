@@ -19,3 +19,7 @@ May 17, 2024:
 May 18, 2024:
 ✅ Today, External guid give me task to creat mini python project. I created simple calculatore using python.
 
+📅 Week-2 
+
+May 20, 2024:
+✅ Today, I learn Flask Module in python. And also learn application and use case of this module in real life porject.
